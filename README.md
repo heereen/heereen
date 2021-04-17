@@ -9,6 +9,8 @@ https://www.google.com/intl/en/chrome/browser/desktop/index.html?standalone=1
 ### Total Commander
 https://www.ghisler.com/download.htm
 
+###VeraCrypt
+https://www.veracrypt.fr/en/Downloads.html
 
 <!--
 **heereen/heereen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
