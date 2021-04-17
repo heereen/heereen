@@ -1,17 +1,16 @@
 # Ссылки для скачивания:
 
-### Firefox<br>
-https://www.mozilla.org/ru/firefox/all/#product-desktop-release
+### Браузеры
+<ul>
+<li><a href="https://www.google.com/intl/en/chrome/browser/desktop/index.html?standalone=1">Chrome</a> - Замена IE, браузер </li>
+<li><a href="https://www.mozilla.org/ru/firefox/all/#product-desktop-release">Firefox</a> - Замена IE, браузер</li>
+</ul>
 
-### Chrome
-https://www.google.com/intl/en/chrome/browser/desktop/index.html?standalone=1
-
-### Total Commander
-https://www.ghisler.com/download.htm
-
-### VeraCrypt
-https://www.veracrypt.fr/en/Downloads.html
-
+### Утилиты
+<ul>
+<li><a href="https://www.ghisler.com/download.htm">Total Commander</a> - Замена проводника </li>
+<li><a href="https://www.veracrypt.fr/en/Downloads.html">VeraCrypt</a> - Создание контейнеров</li>
+</ul>
 
 ### Linux дистрибутивы
 <ul>
