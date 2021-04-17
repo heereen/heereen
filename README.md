@@ -13,8 +13,8 @@ https://www.ghisler.com/download.htm
 https://www.veracrypt.fr/en/Downloads.html
 
 <ul>
-<li><a href="https://www.reddit.com/r/archlinux/" rel="nofollow">Arch Linux</a></li>
 <li><a href="https://ubuntu.com/download/desktop">Ubuntu</a> - Download Ubuntu Desktop </li>
+<li><a href="https://getfedora.org/ru/workstation/">Fedora</a> - Download Fedora Workstation </li>
 
 </ul>
 
