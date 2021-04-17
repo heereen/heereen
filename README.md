@@ -1,6 +1,4 @@
-### Начало 👋
-
-## Firefox<br>
+### Firefox<br>
 https://www.mozilla.org/ru/firefox/all/#product-desktop-release
 
 <!--
