@@ -9,7 +9,7 @@ https://www.google.com/intl/en/chrome/browser/desktop/index.html?standalone=1
 ### Total Commander
 https://www.ghisler.com/download.htm
 
-###VeraCrypt
+### VeraCrypt
 https://www.veracrypt.fr/en/Downloads.html
 
 <!--
