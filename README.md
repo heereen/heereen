@@ -1,6 +1,9 @@
 ### Firefox<br>
 https://www.mozilla.org/ru/firefox/all/#product-desktop-release
 
+### Chrome
+https://www.google.com/intl/en/chrome/browser/desktop/index.html?standalone=1
+
 <!--
 **heereen/heereen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
