@@ -17,7 +17,7 @@ https://www.veracrypt.fr/en/Downloads.html
 <ul>
 <li><a href="https://ubuntu.com/download/desktop">Ubuntu</a> - Ubuntu Desktop </li>
 <li><a href="https://getfedora.org/ru/workstation/">Fedora</a> - Fedora Workstation </li>
-<li><a href="https://manjaro.org/download/">Fedora</a> - Manjaro, все редакции </li>
+<li><a href="https://manjaro.org/download/">Manjaro</a> - Manjaro, все редакции </li>
 </ul>
 
 <!--
